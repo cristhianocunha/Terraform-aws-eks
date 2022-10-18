@@ -5,6 +5,7 @@
 
 Primeiro projeto de Infraestrutura como código com docker, utilizando Terraform para provisionamento e AWS como provedor da infraestrutura.
 
+Projeto criando no Curso da Alura para Iac. 
   
 
 ## 🔨 Funcionalidades do projeto
@@ -40,8 +41,6 @@ Neste App são exploradas as seguintes técnicas e tecnologias:
 -  **Separação de ambientes**: 2 ambientes separados, construídos de forma automática pelo Terraform, reutilizando código.
 
   
-  
-
 ## 🛠️ Abrir e rodar o projeto
 
   
